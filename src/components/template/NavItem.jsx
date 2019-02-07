@@ -7,3 +7,4 @@ export default props =>
     <Link to={props.href}>
         <i className={props.icon} /> {props.label}
     </Link>
+
